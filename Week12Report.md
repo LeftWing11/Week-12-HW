@@ -6,16 +6,16 @@ In this section, describe the analysis you completed for the machine learning mo
 
 * Explain the purpose of the analysis.
 
-- Purpose: To build and evaluate models capable of identifying the creditworthiness of borrowers based on historical lending activity.
+Purpose: To build and evaluate models capable of identifying the creditworthiness of borrowers based on historical lending activity.
 
 
 * Explain what financial information the data was on, and what you needed to predict.
 
-- We used a dataset containing financial information from a peer-to-peer lending services company. The key prediction task was to classify loans into two categories: healthy loans (0) and high-risk loans (1).
+We used a dataset containing financial information from a peer-to-peer lending services company. The key prediction task was to classify loans into two categories: healthy loans (0) and high-risk loans (1).
 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 
-- The variable we sought to predict was "loan_status," where a value of 0 indicated a healthy loan and 1 indicated a high-risk loan. We checked the balance of these labels to understand the class distribution.
+The variable we sought to predict was "loan_status," where a value of 0 indicated a healthy loan and 1 indicated a high-risk loan. We checked the balance of these labels to understand the class distribution.
 
 
 * Describe the stages of the machine learning process you went through as part of this analysis.

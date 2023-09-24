@@ -27,7 +27,7 @@ The variable we sought to predict was "loan_status," where a value of 0 indicate
 
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
 
-- Utilised LogisticRegression and resampling model namely oversampling
+Utilised LogisticRegression and resampling model namely oversampling
 
 ## Results
 

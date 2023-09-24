@@ -75,6 +75,4 @@ Class Imbalance:
 - Model 2 (Oversampled) addresses class imbalance explicitly, which could be advantageous if class balance is a significant concern. It ensures that both healthy and high-risk loans are adequately represented in the training data.
 
 
-If you do not recommend any of the models, please justify your reasoning.
-
 
